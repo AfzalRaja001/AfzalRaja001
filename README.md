@@ -130,15 +130,12 @@ motto: "Code. Learn. Build. Repeat."
 
 <br>
 
-## 💡 Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</p>
+
 
 ---
 
 <p align="center">
-  <img src="./pixel-art.gif" alt="Coding Animation" width="100%" />
+  <img src="./githubgif.gif" alt="Coding Animation" width="100%" />
 </p>
 
 <p align="center">
