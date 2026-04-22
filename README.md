@@ -112,11 +112,6 @@ motto: "Code. Learn. Build. Repeat."
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AfzalRaja001&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </p>
 
-### 🏅 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AfzalRaja001&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="Trophies" />
-</p>
-
 <br>
 
 ## 🤝 Let's Connect
